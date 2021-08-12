@@ -7,6 +7,6 @@
     border-style: groove;
 }
 .box1::before{
-    content:"你试试能不能选中我？";
+    content:"你试试能不能选中我？我可以防复制啊！（Ctrl+P）除外啊~";
     font-size:20px;
 }
