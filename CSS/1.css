@@ -1,0 +1,12 @@
+.box1{
+    width: 200px;
+    height: 124px;
+    background-color: aquamarine;
+    border-color:rgba(42, 146, 231,.8);
+    border-bottom:10px;
+    border-style: groove;
+}
+.box1::before{
+    content:"你试试能不能选中我？";
+    font-size:20px;
+}
